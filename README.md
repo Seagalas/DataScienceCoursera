@@ -1,1 +1,1 @@
-It's an assesment test for Module 5 of Coursera IBM Data Science Course
+It's an assesment test for Module 5 of the Coursera IBM Data Science Course
